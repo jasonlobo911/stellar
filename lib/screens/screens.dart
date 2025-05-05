@@ -1,0 +1,1 @@
+export 'package:vesit_student/screens/splash/splash_screen.dart';
